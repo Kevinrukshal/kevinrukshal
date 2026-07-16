@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563EB,100:7C3AED&text=Kevin%20Rukshal&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:5B8CFF,100:A56EFF&text=Kevin%20Rukshal&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Ciao%2C+I'm+Kevin+%F0%9F%91%8B;Software+Analyst;Full-Stack+Developer;AI+Engineer;Data+Analyst;System+Architect;Building+Intelligent+Software+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5B8CFF&center=true&vCenter=true&width=900&lines=Ciao%2C+I'm+Kevin+%F0%9F%91%8B;Software+Analyst;Full-Stack+Developer;AI+Engineer;Data+Analyst;System+Architect;Building+Intelligent+Software+%F0%9F%9A%80"/>
 </p>
 
 <p align="center">
@@ -40,12 +40,13 @@ Software Analyst • Full-Stack Developer • AI Engineer • Data Analyst • S
 
 # 👨‍💻 About Me
 
-- 🤖 AI Engineer & AI Application Developer
-- 💻 Full-Stack Web Developer
+- 💼 Software Analyst & AI Developer Apprentice @ QuTec
+- 🤖 Passionate about Artificial Intelligence & AI Engineering
+- 💻 Full-Stack Developer
 - ⚙️ Backend Developer specializing in FastAPI
-- 📊 Passionate about Data Analytics & Machine Learning
-- ☁️ Exploring AWS Cloud & Cloud Architecture
-- 🏗️ Learning Software Architecture & System Design
+- 📊 Data Analyst
+- ☁️ Learning AWS Cloud & Cloud-Native Development
+- 🏗️ Exploring Software Architecture & System Design
 - 🚀 Always building, learning, and improving
 
 ---
@@ -66,25 +67,21 @@ Software Analyst • Full-Stack Developer • AI Engineer • Data Analyst • S
 - Full-Stack Development
 - AWS Cloud
 - Docker & Kubernetes
-- CI/CD
-- DevOps
+- CI/CD & DevOps
 - Microservices
-- System Design
 - Software Architecture
+- System Design
 
 ---
 
 # 🚀 Featured Projects
 
-> Coming Soon...
+> Replace these with your repositories as you build them.
 
-⭐ AI Applications
-
-⭐ Full-Stack Web Applications
-
-⭐ Backend APIs
-
-⭐ Data Analytics Projects
+- 🤖 AI Applications
+- 🌐 Full-Stack Web Applications
+- ⚡ Backend APIs
+- 📊 Data Analytics Projects
 
 ---
 
@@ -96,16 +93,16 @@ Software Analyst • Full-Stack Developer • AI Engineer • Data Analyst • S
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css"/>
 </p>
 
-### Frontend
+### Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=react,fastapi"/>
 </p>
 
-### Backend
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres"/>
+<img src="https://skillicons.dev/icons?i=postgres"/>
 </p>
 
 ### Cloud & DevOps
@@ -117,12 +114,12 @@ Software Analyst • Full-Stack Developer • AI Engineer • Data Analyst • S
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git"/>
+<img src="https://skillicons.dev/icons?i=git,vscode"/>
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -143,33 +140,13 @@ Software Analyst • Full-Stack Developer • AI Engineer • Data Analyst • S
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinrukshal&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable this later using GitHub Actions.
-
-```html
-<p align="center">
-<img src="https://raw.githubusercontent.com/kevinrukshal/kevinrukshal/output/snake.svg"/>
-</p>
-```
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=kevinrukshal&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
 <p align="center">
-<i>"Code • Learn • Build • Repeat"</i> 🚀
+Thanks for visiting! ⭐ Feel free to explore my repositories and connect with me.
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,100:7C3AED"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:5B8CFF,100:A56EFF"/>
