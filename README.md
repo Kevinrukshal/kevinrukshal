@@ -12,11 +12,13 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kevinrukshal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn"/>
   </a>
 
+  <img width="10"/>
+
   <a href="mailto:kevinservizi@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="40" alt="Gmail"/>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="40" alt="Gmail"/>
   </a>
 </div>
 
