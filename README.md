@@ -2,7 +2,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">I'm a Software Analyst & AI Developer Apprentice @ QuTec 💼<br><br>Currently studying Data Analysis & Artificial Intelligence at ICT-Campus ITS Academy. 🎓<br><br>I enjoy building AI-powered applications, backend systems, and data-driven solutions while continuously learning new technologies.  🤖</h4>
+<h4 data-importer="text" align="left">I'm a Software Analyst & AI Developer Apprentice @ QuTec 💼<br><br>Currently studying Data Analysis & Artificial Intelligence at ICT-Campus ITS Academy. 🎓<br><br>I enjoy building AI-powered applications, backend systems, and data-driven solutions while continuously learning new technologies.</h4>
 
 ###
 
