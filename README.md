@@ -116,18 +116,22 @@
 
 <h3 align="left">🤖 AI & Data</h3>
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter"/>
+  <img width="12"/>
+
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="45"/>
 </p>
 
-<p>
-Pandas • NumPy • Scikit-learn • OpenAI API • Jupyter Notebook
-</p>
-
-<h3 align="left">☁️ Cloud & DevOps</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,cloudflare,linux,nginx"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 <h3 align="left">🛠 Development Tools</h3>
