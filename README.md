@@ -81,7 +81,7 @@ Software Analyst • Full-Stack Developer • AI Engineer • Data Analyst • S
 
 > 🚧 I'm currently building AI-powered, backend, full-stack and data-driven applications.
 
-Stay tuned—my best projects will be showcased here soon.
+Stay tuned - my best projects will be showcased here soon.
 
 ---
 
@@ -121,10 +121,6 @@ Stay tuned—my best projects will be showcased here soon.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
 <img width="12"/>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
-
-<p>
-Scikit-learn • OpenCV • OpenAI API
 </p>
 
 ### ☁️ Cloud & DevOps
