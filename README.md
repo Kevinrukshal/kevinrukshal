@@ -90,34 +90,50 @@
 
 <h2 align="left">🛠 Tech Stack</h2>
 
-<h3 align="left">Languages</h3>
+<h3 align="left">💻 Languages</h3>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" alt="Languages"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,html,css,bash"/>
 </p>
 
-<h3 align="left">Frameworks</h3>
+<h3 align="left">⚛️ Frontend</h3>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,fastapi" alt="Frameworks"/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite"/>
 </p>
 
-<h3 align="left">Databases</h3>
+<h3 align="left">⚙️ Backend</h3>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" alt="Databases"/>
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django,flask"/>
 </p>
 
-<h3 align="left">Cloud and DevOps</h3>
+<h3 align="left">🗄 Databases</h3>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,github,cloudflare" alt="Cloud and DevOps"/>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis"/>
 </p>
 
-<h3 align="left">Tools</h3>
+<h3 align="left">🤖 AI & Data</h3>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode" alt="Tools"/>
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+</p>
+
+<p>
+Pandas • NumPy • Scikit-learn • OpenAI API • Jupyter Notebook
+</p>
+
+<h3 align="left">☁️ Cloud & DevOps</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,cloudflare,linux,nginx"/>
+</p>
+
+<h3 align="left">🛠 Development Tools</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,pycharm,idea"/>
 </p>
 
 ---
