@@ -1,140 +1,139 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5B8CFF&center=true&vCenter=true&width=900&lines=Ciao%2C+I'm+Kevin+%F0%9F%91%8B;Software+Analyst;Full-Stack+Developer;AI+Engineer;Data+Analyst;System+Architect;Building+Intelligent+Software+%F0%9F%9A%80" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5B8CFF&center=true&vCenter=true&width=900&lines=Ciao%2C+I'm+Kevin+👋;Software+Analyst;Full-Stack+Developer;AI+Engineer;Data+Analyst;System+Architect;Building+Intelligent+Software+🚀" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="assets/terminal-loader.gif" width="160" alt="Terminal loader animation"/>
+  <img src="assets/terminal-loader.gif" width="150" alt="Terminal Loader"/>
 </p>
 
 <h3 align="center">
-  Software Analyst • Full-Stack Developer • AI Engineer • Data Analyst • System Architect
+Software Analyst • Full-Stack Developer • AI Engineer • Data Analyst • System Architect
 </h3>
 
 <p align="center">
-  💼 <strong>Software Analyst & AI Developer Apprentice</strong> @
-  <a href="https://www.qutec.it/" target="_blank">QuTec</a>
-  <br><br>
+💼 <strong>Software Analyst & AI Developer Apprentice</strong> @
+<a href="https://www.qutec.it/" target="_blank">QuTec</a>
 
-  🎓 <strong>Data Analysis & Artificial Intelligence Student</strong> @
-  <a href="https://its-ictcampus.com/link" target="_blank">ICT-Campus ITS Academy</a>
-  <br><br>
+<br><br>
 
-  🚀 Passionate about building intelligent, scalable, and cloud-native applications through
-  <strong>Artificial Intelligence</strong>,
-  <strong>Full-Stack Development</strong>,
-  <strong>Data Analytics</strong>,
-  <strong>Cloud Computing</strong>, and
-  <strong>Modern Software Architecture</strong>.
+🎓 <strong>Data Analysis & Artificial Intelligence Student</strong> @
+<a href="https://its-ictcampus.com/link" target="_blank">ICT-Campus ITS Academy</a>
+
+<br><br>
+
+🚀 Passionate about building intelligent, scalable, and cloud-native software through Artificial Intelligence, Full-Stack Development, Backend Engineering, Data Analytics, Cloud Computing, and Modern Software Architecture.
 </p>
 
 ---
 
-<h2 align="left">📫 Connect With Me</h2>
+## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kevinrukshal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
-  </a>
 
-  <a href="mailto:kevinservizi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail"/>
-  </a>
+<a href="https://www.linkedin.com/in/kevinrukshal" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kevinservizi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-<h2 align="left">👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-- 💼 Software Analyst & AI Developer Apprentice at QuTec
-- 🤖 Interested in Artificial Intelligence and AI Engineering
+- 💼 Software Analyst & AI Developer Apprentice @ QuTec
+- 🤖 Passionate about Artificial Intelligence & AI Engineering
 - 💻 Full-Stack Developer
-- ⚙️ Backend Developer working with FastAPI
+- ⚙️ Backend Developer specializing in FastAPI
 - 📊 Data Analyst
-- ☁️ Learning AWS and cloud-native development
-- 🏗️ Exploring Software Architecture and System Design
-- 🚀 Always building, learning, and improving
+- ☁️ Exploring AWS, Cloud Computing & Cloud-Native Development
+- 🏗️ Interested in Software Architecture, System Design & Microservices
+- 🚀 Always building, learning and improving through real-world projects
 
 ---
 
-<h2 align="left">🏆 Achievements</h2>
+## 🏆 Highlights
 
 - 🥇 Google Data Analytics Professional Certificate
 - 🏅 4th Place — ITSCyberGame CTF
 - 🚀 Developed AI-powered and backend applications
-- 📚 Continuously learning modern software engineering practices
+- 📚 Continuous learner focused on Software Engineering & AI
 
 ---
 
-<h2 align="left">🌱 Currently Learning</h2>
+## 🎯 Current Focus
 
-- Artificial Intelligence
-- Machine Learning
-- Full-Stack Development
-- AWS Cloud
-- Docker and Kubernetes
-- CI/CD and DevOps
-- Microservices
-- Software Architecture
-- System Design
-
----
-
-<h2 align="left">🚀 Featured Projects</h2>
-
-<p align="left">
-  I’m currently building AI-powered, backend, full-stack, and data-driven applications.
-  This section will showcase my strongest projects as I continue to develop them.
-</p>
+- 🤖 AI Engineering & Machine Learning
+- 🌐 Advanced Full-Stack Development
+- ☁️ AWS Cloud
+- 🐳 Docker & Kubernetes
+- 🔄 CI/CD & GitHub Actions
+- 🏗️ Software Architecture
+- ⚡ Microservices
+- 📐 System Design
 
 ---
 
-<h2 align="left">🛠 Tech Stack</h2>
+## 🚀 Featured Projects
 
-<h3 align="left">💻 Languages</h3>
+> 🚧 I'm currently building AI-powered, backend, full-stack and data-driven applications.
+
+Stay tuned—my best projects will be showcased here soon.
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,html,css,bash"/>
 </p>
 
-<h3 align="left">⚛️ Frontend</h3>
+### ⚛️ Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite"/>
 </p>
 
-<h3 align="left">⚙️ Backend</h3>
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django,flask"/>
 </p>
 
-<h3 align="left">🗄 Databases</h3>
+### 🗄 Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis"/>
 </p>
 
-<h3 align="left">🤖 AI & Data</h3>
+### 🤖 AI & Data
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas"/>
-  <img width="12"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy"/>
-  <img width="12"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter"/>
-  <img width="12"/>
-
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="45"/>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<p>
+Scikit-learn • OpenCV • OpenAI API
 </p>
 
-<h3 align="left">🛠 Development Tools</h3>
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,cloudflare,linux,nginx"/>
+</p>
+
+### 🛠 Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,pycharm,idea"/>
@@ -142,42 +141,34 @@
 
 ---
 
-<h2 align="left">📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=kevinrukshal&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Kevin's GitHub statistics"
-  />
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinrukshal&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Kevin's most used languages"
-  />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kevinrukshal&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinrukshal&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=kevinrukshal&theme=tokyonight&hide_border=true"
-    alt="Kevin's GitHub streak"
-  />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=kevinrukshal&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-<h2 align="left">📈 Contribution Graph</h2>
+## 📈 Contribution Graph
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kevinrukshal&theme=tokyo-night&hide_border=true"
-    alt="Kevin's GitHub contribution graph"
-  />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinrukshal&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
 <p align="center">
-  Thanks for visiting! ⭐ Feel free to explore my repositories and connect with me.
+Thanks for visiting! ⭐ Feel free to explore my repositories and connect with me.
 </p>
