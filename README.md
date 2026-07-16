@@ -1,69 +1,159 @@
-<h1 data-importer="text" align="left">Ciao, I'm Kevin 👋 from Italy</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Ciao%2C+I'm+Kevin+%F0%9F%91%8B;Software+Analyst;Full-Stack+Developer;AI+Engineer;Data+Analyst;System+Architect;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG"/>
+</p>
 
-###
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450" alt="Coding GIF"/>
+</p>
 
-<h4 data-importer="text" align="left">I'm a Software Analyst & AI Developer Apprentice @ QuTec 💼<br><br>Currently studying Data Analysis & Artificial Intelligence at ICT-Campus ITS Academy. 🎓<br><br>I enjoy building AI-powered applications, backend systems, and data-driven solutions while continuously learning new technologies.</h4>
+<h3 align="center">
+Software Analyst • Full-Stack Developer • AI Engineer • Data Analyst • System Architect
+</h3>
 
-###
+<p align="center">
+💼 <strong>Software Analyst & AI Developer Apprentice</strong> @ QuTec
+<br><br>
+🎓 <strong>Data Analysis & Artificial Intelligence Student</strong> @ ICT-Campus ITS Academy
+<br><br>
+🚀 Passionate about building intelligent, scalable, and cloud-native applications through <strong>Artificial Intelligence</strong>, <strong>Full-Stack Development</strong>, <strong>Data Analytics</strong>, <strong>Cloud Computing</strong>, and <strong>Modern Software Architecture</strong>.
+</p>
 
-<h2 data-importer="text" align="left">About me</h2>
+---
 
-###
+## 📫 Connect with me
 
+<p align="left">
 <a href="https://www.linkedin.com/in/kevinrukshal" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kevinservizi@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
 
-###
+---
 
-<p data-importer="text" align="left">🚀 Interested In<br>- Artificial Intelligence<br>- AI Engineering<br>- Full-Stack Development<br>- Backend Development<br>- Data Engineering<br>- Cloud Technologies<br>- Cybersecurity<br>- Machine Learning<br><br>🏆 Achievements<br>- 🥇 Google Data Analytics Professional Certificate<br>- 🏅 4th Place – ITSCyberGame CTF<br>- 🚀 Developed AI-powered and backend projects<br>- 📚 Continuous learner with hands-on technical experience<br><br>🌱 Currently Learning<br>- Full-Stack Development<br>- AWS Cloud<br>- Machine Learning<br>- Software Architecture<br>- System Design<br>- Docker & Kubernetes<br>- CI/CD & DevOps<br>- Microservices</p>
+## 👨‍💻 About Me
 
-###
+- 🤖 Passionate about Artificial Intelligence & AI Engineering
+- 💻 Building Full-Stack Web Applications
+- ⚡ Developing scalable backend APIs with FastAPI
+- 📊 Interested in Data Analytics & Machine Learning
+- ☁️ Learning AWS Cloud & Cloud Architecture
+- 🏗️ Exploring Software Architecture & System Design
+- 🚀 Always learning new technologies
 
-<h2 data-importer="text" align="left">I code with</h2>
+---
 
-###
+## 🏆 Achievements
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
-</div>
+- 🥇 Google Data Analytics Professional Certificate
+- 🏅 4th Place – ITSCyberGame CTF
+- 🚀 Built AI-powered and backend applications
+- 📚 Continuous learner focused on real-world software engineering
 
-###
+---
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=kevinrukshal.kevinrukshal&"  />
-</div>
+## 🌱 Currently Learning
 
-###
+- Artificial Intelligence
+- Machine Learning
+- Full-Stack Development
+- AWS Cloud
+- Docker & Kubernetes
+- CI/CD & DevOps
+- Microservices
+- Software Architecture
+- System Design
+
+---
+
+## 🚀 Tech Stack
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45"/>
+<img width="12"/>
+
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="45"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="45"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=aws" height="45"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=cloudflare" height="45"/>
+
+</p>
+
+---
+
+## 🚀 Currently Building
+
+- 🤖 AI-powered applications
+- ⚡ FastAPI backend services
+- 🌐 Full-Stack web applications
+- ☁️ Cloud-native software
+- 📊 Data analytics solutions
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kevinrukshal&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinrukshal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=kevinrukshal&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Profile Views
+
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kevinrukshal.kevinrukshal"/>
+</p>
+
+---
+
+<p align="center">
+<i>"Code. Learn. Build. Repeat."</i> 🚀
+</p>
