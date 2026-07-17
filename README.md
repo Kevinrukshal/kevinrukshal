@@ -141,14 +141,6 @@ Stay tuned - my best projects will be showcased here soon.
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kevinrukshal&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinrukshal&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img width="70%" src="https://streak-stats.demolab.com?user=kevinrukshal&theme=tokyonight&hide_border=true"/>
 
 </p>
