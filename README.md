@@ -132,7 +132,7 @@ Stay tuned - my best projects will be showcased here soon.
 ### 🛠 Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,pycharm,idea"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,pycharm"/>
 </p>
 
 ---
