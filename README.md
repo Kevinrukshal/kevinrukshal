@@ -146,17 +146,6 @@ Stay tuned - my best projects will be showcased here soon.
 </p>
 
 ---
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinrukshal&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 <p align="center">
 Thanks for visiting! ⭐ Feel free to explore my repositories and connect with me.
 </p>
