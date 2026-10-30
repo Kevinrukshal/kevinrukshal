@@ -69,7 +69,7 @@ Software Analyst • Full-Stack Developer • AI Engineer • Data Analyst • S
 - 🤖 AI Engineering & Machine Learning
 - 🌐 Advanced Full-Stack Development
 - ☁️ AWS Cloud
-- 🐳 Docker & Kubernetes
+- 🐳 Docker
 - 🔄 CI/CD & GitHub Actions
 - 🏗️ Software Architecture
 - ⚡ Microservices
@@ -90,19 +90,19 @@ Stay tuned - my best projects will be showcased here soon.
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,html,css,bash"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,html,css,bash,rust"/>
 </p>
 
 ### ⚛️ Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
 </p>
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django,flask"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
 </p>
 
 ### 🗄 Databases
@@ -119,20 +119,18 @@ Stay tuned - my best projects will be showcased here soon.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
 ### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,cloudflare,linux,nginx"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,cloudflare,linux,nginx"/>
 </p>
 
 ### 🛠 Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,pycharm"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
@@ -146,6 +144,7 @@ Stay tuned - my best projects will be showcased here soon.
 </p>
 
 ---
+
 <p align="center">
 Thanks for visiting! ⭐ Feel free to explore my repositories and connect with me.
 </p>
