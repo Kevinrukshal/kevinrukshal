@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5B8CFF&center=true&vCenter=true&width=900&lines=Ciao%2C+I'm+Kevin+👋;Software+Analyst;Full-Stack+Developer;AI+Engineer;Data+Analyst;System+Architect;Building+Intelligent+Software+🚀" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <img src="assets/terminal-loader.gif" width="150" alt="Terminal Loader"/>
-</p>
-
 <h3 align="center">
 Software Analyst • Full-Stack Developer • AI Engineer • Data Analyst • System Architect
 </h3>
@@ -79,9 +75,12 @@ Software Analyst • Full-Stack Developer • AI Engineer • Data Analyst • S
 
 ## 🚀 Featured Projects
 
-> 🚧 I'm currently building AI-powered, backend, full-stack and data-driven applications.
+| Project | What it does | Main technologies |
+| --- | --- | --- |
+| [RetailPulse AI](https://github.com/Kevinrukshal/RetailPulse-AI) | Validates CSV/Excel files, loads PostgreSQL, and exposes analytics through a dashboard and API. Bundled data is synthetic. | Python, FastAPI, PostgreSQL, pandas, Power BI |
+| [Booking Analytics](https://github.com/Kevinrukshal/booking-analytics-mvp) | Imports workbooks, checks booking quality, compares records, and exports filtered results. | React, TypeScript, FastAPI, PostgreSQL |
 
-Stay tuned - my best projects will be showcased here soon.
+Both repositories include setup instructions and describe their limitations. No private project code or client data is shared here.
 
 ---
 
